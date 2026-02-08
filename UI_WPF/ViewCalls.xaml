@@ -1,0 +1,47 @@
+﻿<Window x:Class="UI_WPF.ViewCalls"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ViewCalls" Height="450" Width="800">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Filtro -->
+        <StackPanel Orientation="Horizontal" Grid.Row="0" Margin="0,0,0,10">
+            <Label Content="Filter by Category" VerticalAlignment="Center"/>
+            <ComboBox x:Name="CategoryFilterComboBox"
+                      Width="150"
+                      Margin="10,0,0,0"
+                      SelectionChanged="CategoryFilterComboBox_SelectionChanged"/>
+        </StackPanel>
+
+        <!-- Tabla -->
+        <DataGrid x:Name="CallsDataGrid"
+                  Grid.Row="1"
+                  AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}"/>
+                <DataGridTextColumn Header="Call Description" Binding="{Binding Description}"/>
+                <DataGridTextColumn Header="Category" Binding="{Binding Category.CallType}"/>
+                <DataGridTextColumn Header="DateNeeded" Binding="{Binding DateNeed}"/>
+                <DataGridTextColumn Header="Address" Binding="{Binding AddressCall}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Botón abajo -->
+        <StackPanel Grid.Row="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="0,10,0,0">
+            <Button x:Name="btnAddCall"
+                    Width="120"
+                    Height="30"
+                    Content="Add this Call" Click="btnAddCall_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
