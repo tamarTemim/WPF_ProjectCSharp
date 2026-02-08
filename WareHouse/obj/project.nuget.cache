@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cgrSyl2zJS4=",
+  "success": true,
+  "projectFilePath": "M:\\000000000000מחשבים לא מתוגבר שנה ב\\תלמידות\\Tamar Temim\\C#\\NewDotNetProject\\UI_WPF\\WareHouse\\WareHouse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\st242\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.1\\system.configuration.configurationmanager.8.0.1.nupkg.sha512",
+    "C:\\Users\\st242\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.1\\system.diagnostics.eventlog.8.0.1.nupkg.sha512",
+    "C:\\Users\\st242\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

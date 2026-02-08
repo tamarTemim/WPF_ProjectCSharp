@@ -1,0 +1,16 @@
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\bin\Debug\net8.0\DAL_INTERFACE.deps.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\bin\Debug\net8.0\DAL_INTERFACE.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\bin\Debug\net8.0\DAL_INTERFACE.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\bin\Debug\net8.0\Entities.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\bin\Debug\net8.0\Entities.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.csproj.AssemblyReference.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.GeneratedMSBuildEditorConfig.editorconfig
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.AssemblyInfoInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.AssemblyInfo.cs
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.csproj.CoreCompileInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.sourcelink.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTE.454ED623.Up2Date
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\refint\DAL_INTERFACE.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\DAL_INTERFACE.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\DAL_INTERFACE_\obj\Debug\net8.0\ref\DAL_INTERFACE.dll

@@ -1,0 +1,16 @@
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\bin\Debug\net8.0\WareHouse.deps.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\bin\Debug\net8.0\WareHouse.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\bin\Debug\net8.0\WareHouse.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\bin\Debug\net8.0\Entities.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\bin\Debug\net8.0\Entities.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.csproj.AssemblyReference.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.GeneratedMSBuildEditorConfig.editorconfig
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfoInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.AssemblyInfo.cs
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.csproj.CoreCompileInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.sourcelink.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.csproj.Up2Date
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\refint\WareHouse.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\WareHouse.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\WareHouse\obj\Debug\net8.0\ref\WareHouse.dll

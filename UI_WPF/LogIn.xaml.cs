@@ -18,9 +18,9 @@ namespace UI_WPF
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class LogIn : Window
     {
-        public MainWindow()
+        public LogIn()
         {
             InitializeComponent();
         }
@@ -30,15 +30,15 @@ namespace UI_WPF
             IVolunteer dal_Log = Cache.GetVolunteerDalByConfig();
             BL.Volunteer_BL VolBL = new BL.Volunteer_BL(dal_Log);
             Volunteer v = new Volunteer()
-            { FullName = txtUserName.Text, Password = txtPassword.Text };
+            { FullName = txtUserName.Text, Password = txtPassword.Password };
             Volunteer currentVol = VolBL.Authenticate(v);
             if (currentVol != null)
             {
                 Cache.CurrentVolunteer = currentVol;
                 MessageBox.Show($"Welcome {currentVol.FullName}!");
-                ViewCalls vc = new ViewCalls();
-                vc.Show();
-                this.Close();
+                Window volunteerWindow = new VolunteerWindow();
+                volunteerWindow.Show();
+                Window.GetWindow(this)?.Close();
             }
             else
                 MessageBox.Show("The user doesnt exist, authentication failed!");

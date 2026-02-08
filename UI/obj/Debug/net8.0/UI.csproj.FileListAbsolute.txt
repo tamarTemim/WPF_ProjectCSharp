@@ -1,0 +1,6 @@
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.csproj.AssemblyReference.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.GeneratedMSBuildEditorConfig.editorconfig
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.AssemblyInfoInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.AssemblyInfo.cs
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.csproj.CoreCompileInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\UI\obj\Debug\net8.0\UI.sourcelink.json

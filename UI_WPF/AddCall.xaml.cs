@@ -29,7 +29,7 @@ namespace UI_WPF
 
         public void btnSubmitCall_Click(object sender, RoutedEventArgs e)
         {
-            Category selectedCategory = comboboxCat.SelectedItem as Category;
+            Category selectedCategory = (Category)comboboxCat.SelectedItem;
             DateTime date = datePickerNeeded.SelectedDate.Value;
             ICall dal_addC = Cache.GetCallDalByConfig();
             BL.Call_BL CallBL = new BL.Call_BL(dal_addC);
@@ -53,7 +53,7 @@ namespace UI_WPF
         private void Categories()
         {
             // Suponiendo que tienes una función que obtiene todas las categorías
-            List<Category> categories = WareHouse.DataBase.DicCategories.Values.ToList();
+            List<String> categories = ["Food", "BabbySitting", "Medical Help", "House Cleanning"]; 
             // Asignamos la lista al ComboBox
             comboboxCat.ItemsSource = categories;
 

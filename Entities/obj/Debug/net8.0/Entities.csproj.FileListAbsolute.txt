@@ -1,0 +1,13 @@
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\bin\Debug\net8.0\Entities.deps.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\bin\Debug\net8.0\Entities.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\bin\Debug\net8.0\Entities.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\refint\Entities.dll
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\Entities.pdb
+M:\000000000000מחשבים לא מתוגבר שנה ב\תלמידות\Tamar Temim\C#\NewDotNetProject\UI_WPF\Entities\obj\Debug\net8.0\ref\Entities.dll

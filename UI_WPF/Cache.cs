@@ -16,6 +16,7 @@ namespace UI_WPF
     public static class Cache
     {
         public static Entities.Volunteer? CurrentVolunteer { get; set; }
+        
         /// <summary>
         /// Creates and returns an instance of <see cref="ICallDal"/> based on the type name specified in the
         /// application configuration.
@@ -50,7 +51,7 @@ namespace UI_WPF
             //קריאה מהקובץ הקונפיגורציה כדי לקבל את שם המחלקה הרצויה
             //שם המחלקה כולל גם את  שם מרחב-השמות ==namespace+class 
             string dalName = ConfigurationManager.AppSettings["VolunteerDal"] ?? throw new Exception("dal not found in config file");
-            String assemblyName = ConfigurationManager.AppSettings["DalAssemblyName"] ?? throw new Exception("dal not found in config file");
+            String assemblyName = ConfigurationManager.AppSettings["AssemblyName"] ?? throw new Exception("dal not found in config file");
 
             dalName += $", {assemblyName}";
 
@@ -68,54 +69,6 @@ namespace UI_WPF
         }
 
 
-
-
-        //public Cache()
-        //{
-        //    using (SqlConnection conn = new SqlConnection(new Common().ConnectionString))
-        //    {
-        //        conn.Open();
-
-        //        // Query: traer el primer volunteer
-        //        string sql = @"SELECT TOP 1 
-        //                    Id,
-        //                    TZ, 
-        //                    FullName, 
-        //                    Number, 
-        //                    Email, 
-        //                    Password, 
-        //                    Address, 
-        //                    Job, 
-        //                    MaxDistance, 
-        //                    DistanceType
-        //               FROM Volunteer"; // Ajusta los campos si tu tabla tiene más
-
-        //        using (SqlCommand cmd = new SqlCommand(sql, conn))
-        //        {
-        //            using (SqlDataReader reader = cmd.ExecuteReader())
-        //            {
-        //                if (reader.Read())
-        //                {
-        //                    CurrentVolunteer = new Volunteer
-        //                    {
-        //                        Id = reader.GetInt32(reader.GetOrdinal("Id")),
-        //                        TZ = reader.GetInt32(reader.GetOrdinal("TZ")),
-        //                        FullName = reader.GetString(reader.GetOrdinal("FullName")),
-        //                        Number = reader.GetInt32(reader.GetOrdinal("Number")),
-        //                        Email = reader.GetString(reader.GetOrdinal("Email")),
-        //                        Password = reader.GetString(reader.GetOrdinal("Password")),
-        //                        Address = reader.GetString(reader.GetOrdinal("Address")),
-        //                        Job = reader.GetString(reader.GetOrdinal("Job")), // si Job es string, sino castealo
-        //                        MaxDistance = reader.GetDouble(reader.GetOrdinal("MaxDistance")),
-        //                        DistanceType = (DistanceType)reader.GetInt32(reader.GetOrdinal("DistanceType"))
-        //                    };
-        //                }
-        //            }
-
-        //        }
-
-        //    }
-        //}
 
     }
 }

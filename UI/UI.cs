@@ -81,7 +81,7 @@ namespace Chesed_UI
                 Console.Write("Enter type of distance: (0 = Walk, 1 = Car): ");
                 DistanceType distanceType = (DistanceType)int.Parse(Console.ReadLine());
 
-                BL.Volunteer_BL chesed_BL_Volunteer = new BL.Volunteer_BL();
+                BL.Volunteer_BL chesed_BL_Volunteer = new BL.Volunteer_BL(null);
                 if (chesed_BL_Volunteer.AddVolunteerBL(tz, fullName, number, email, password, address, job, maxDistance, distanceType))
                 {
                     Console.WriteLine("The volunteer was added");
@@ -110,8 +110,8 @@ namespace Chesed_UI
                 Console.Write("Enter Date Needed (yyyy-MM-dd HH:mm): ");
                 DateTime dateNeed = DateTime.Parse(Console.ReadLine());
 
-                BL.Call_BL chesed_BL_Call = new BL.Call_BL();
-                if (chesed_BL_Call.AddCallBL(idC, category, description, addressCall, dateNeed))
+                BL.Call_BL chesed_BL_Call = new BL.Call_BL(null);
+                if (chesed_BL_Call.AddCallBL( category, description, addressCall, dateNeed))
                 {
                     Console.WriteLine("The call was added");
                 }
